@@ -38,7 +38,7 @@ I learned to make different layouts using flexbox.
 
 ### Useful resources
 
-MDN Web Docs: ![Visit Link](www.mdndocs.com/)
+MDN Web Docs: [Visit Link](https://developer.mozilla.org/en-US/)
 
 ### Built with
 
